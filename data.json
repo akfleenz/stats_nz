@@ -1,0 +1,495 @@
+{
+      "@context": "https://www.data.govt.nz/catalog.jsonld",
+      "@id": "www.stats.govt.nz/data.json",
+      "@type": "dcat:Catalog",
+      "conformsTo": "https://www.data.govt.nz/toolkit/schema",
+      "dataset":[
+    {
+        "title": "Abortion Statistics",
+        "description": "Abortion statistics measure the number of induced abortions that occur in New Zealand hospitals or licensed abortion clinics.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "abortions",
+            "health",
+            "society",
+            "women"
+        ],
+        "modified": "2018-06-19",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Abortion%20statistics%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Population and society",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/7845b64a-dc1a-427c-b9a5-89eaf7c4580b",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data",
+                "description": "Select Subject category: Health, and Group: Abortion Statistics - ABN"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Abortion-statistics/Abortion-statistics-Year-ended-December-2017/Download-data/abortion-statistics-year-ended-december-2017.xlsx",
+                "title": "Year ended December 2017 data",
+                "format": "XLSX",
+                "size": "94KB"
+            }
+        ]
+    },
+    {
+        "title": "Accommodation Survey",
+        "description": "This provides statistics on guest night numbers, capacity and occupancy rates of hotels, motels, backpacker accommodation, and holiday parks in New Zealand each month. These statistics are used by regional tourism organisations, local and national government and the accommodation industry for monitoring and planning.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "accommodation",
+            "economy",
+            "industries",
+            "tourism"
+        ],
+        "modified": "2018-02-15",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Accommodation%20survey%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1M",
+        "theme": "Commerce, trade and industry",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/38574cd6-b696-41a5-b311-41bfa5611a99",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data",
+                "description": "Select Subject category: Tourism, and Group: Accommodation Survey - ACS"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Accommodation-survey/Accommodation-survey-December-2018/Download-data/accommodation-survey-december-2018-rto-and-accommodation-type-pivot-table.xlsx",
+                "title": "Accommodation survey: December 2018 - RTO and accommodation type pivot table",
+                "format": "XLSX",
+                "size": "2.3MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Accommodation-survey/Accommodation-survey-December-2018/Download-data/accommodation-survey-december-2018-rto-and-origin-pivot-table.xlsx",
+                "title": "Accommodation survey: December 2018 - RTO and origin pivot table",
+                "format": "XLSX",
+                "size": "825KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Accommodation-survey/Accommodation-survey-December-2018/Download-data/accommodation-survey-december-2018-territorial-authority-pivot-table.xlsx",
+                "title": "Accommodation survey: December 2018 - territorial authority pivot table",
+                "format": "XLSX",
+                "size": "851KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Accommodation-survey/Accommodation-survey-December-2018/Download-data/accommodation-survey-december-2018.xlsx",
+                "title": "Accommodation survey: December 2018",
+                "format": "XLSX",
+                "size": "66KB"
+            }
+        ]
+    },
+    {
+        "title": "Agricultural Production Statistics",
+        "description": "These releases contain information on farming in New Zealand - including livestock and arable farming, horticulture, and forestry. Agricultural production statistics are produced in collaboration with the Ministry for Primary Industries.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "agriculture",
+            "atmopshere and climate",
+            "economy",
+            "environment",
+            "imports and exports",
+            "industries",
+            "injuries",
+            "land",
+            "mnaufacturing and production"
+        ],
+        "issued": "1905-06-12",
+        "modified": "2019-01-17",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Agricultural%20production%20statistics%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Agriculture, forestry and fisheries",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/6362a469-f374-412e-ac25-d76fd0962003",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Agricultural-production-statistics/Agricultural-production-statistics-June-2018-provisional/Download-data/agricultural-production-statistics-june-2018-provisional.xlsx",
+                "title": "Agricultural production statistics: June 2018 (provisional)",
+                "format": "XLSX",
+                "size": "55KB"
+            }
+        ]
+    },
+    {
+        "title": "Alcohol  Available for Consumption",
+        "description": "These releases provide estimates of the quantity of alcoholic beverages and tobacco available for consumption in New Zealand. As the tobacco available for consumption series was discontinued in September 2010, for reasons of confidentiality, the release title was changed accordingly.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "economy",
+            "imports and export",
+            "industries"
+        ],
+        "modified": "2018-11-26",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Alcohol%20available%20for%20consumption%2CInformation%20releases",
+        "accrualPeriodicity": "irregular",
+        "theme": "Health",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/670bcc59-c688-4468-be48-2af03ed6b363",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data"
+            }
+        ]
+    },
+    {
+        "title": "Annual Enterprise Survey",
+        "description": "The ongoing Annual Enterprise Survey (AES) is New Zealand's most comprehensive source of financial statistics and provides annual financial performance and financial position information about business operation within New Zealand. Its coverage is around 80% of New Zealand's Gross Domestic Product (GDP).",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "business",
+            "economy",
+            "industries"
+        ],
+        "issued": "1905-06-8",
+        "modified": "2018-06-29",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Annual%20enterprise%20survey%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Commerce, trade and industry",
+        "temporal": "01-10-2016/30-09-2017",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/36809771-984d-4e6b-89a1-576f2118b05b",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2017-financial-year-provisional/Download-data/annual-enterprise-survey-2017-financial-year-provisional-size-bands-csv.csv",
+                "title": "2017 financial year (provisional) - size bands",
+                "format": "CSV",
+                "size": "927KB"
+            }
+        ],
+        "field60": "Susan Hollows",
+        "field61": "National Accounts"
+    },
+    {
+        "title": "Balance of Payments and International Investment Position\n",
+        "description": "These statistics provide records of the value of the country's transactions with the rest of the world in goods, services, income, and transfers. They also record changes in New Zealand's financial claims on (assets), and liabilities to, the rest of the world",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "balance of payments",
+            "economy",
+            "imports and exports"
+        ],
+        "issued": "2000-06-1",
+        "modified": "2018-09-26",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Balance%20of%20payments%20and%20international%20investment%20position%2CInformation%20releases",
+        "accrualPeriodicity": "R/P3M",
+        "theme": "Fiscal, tax and economics",
+        "temporal": "2001/2018",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/13e41c3d-4ff4-403b-a503-ecd498f8bc1c",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data",
+                "description": "Select Subject category: Economic indicators,  and Group: Balance of payments - BOP, or Group: International investment position - IIP"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Balance-of-payments/Balance-of-payments-and-international-investment-position-September-2018-quarter/Download-data/balance-of-payments-international-investment-position-sep18-csv-tables.zip",
+                "title": "September 2018 quarter",
+                "format": "ZIP",
+                "size": "833KB"
+            }
+        ]
+    },
+    {
+        "title": "Births",
+        "description": "These measure the number of births  registered in New Zealand. Birth and statistics provide local authorities, health authorities, and research institutions with information needed to plan future and current social services.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "births and deaths",
+            "gender and sex",
+            "population",
+            "women"
+        ],
+        "issued": "1905-01-21",
+        "modified": "2018-11-1",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Births%20and%20deaths%2CInformation%20releases",
+        "accrualPeriodicity": "R/P3M",
+        "theme": "Population and society",
+        "temporal": "1848/09-2018",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/24f68263-9666-4dca-b5d8-c1bc4bef92c4",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data",
+                "description": "September 2018 data.  Select Subject category: Population, and Group: Births - VSB, or Group: Birth rates - DFM"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Births-and-deaths/Births-and-deaths-Year-ended-December-2017/Download-data/births-and-deaths-year-ended-december-2017-zipped-csv-tables.zip",
+                "title": "Year ended December 2017 data",
+                "format": "ZIP",
+                "size": "8.7KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Births-by-statistical-area-2-and-area-unit-for-comparison.csv",
+                "title": "Births data by statistical area 2 and area unit (comparison)",
+                "format": "CSV",
+                "size": "235KB"
+            }
+        ]
+    },
+    {
+        "title": "Building Consents Issued",
+        "description": "This information release contains statistics on consents for residential and non-residential buildings by region and building type. It includes the number, value and floor area of new residential dwellings, and the value of consents for residential alterations and additions. It also includes the value of consents for non-residential buildings, and the floor area of new non-residential buildings",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "building",
+            "economy",
+            "housing"
+        ],
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Building%20consents%20issued%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1M",
+        "theme": "Commerce, trade and industry",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/ee083b32-8c10-4ccf-b1ee-a4990b27273c",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/",
+                "title": "Use Infoshare for time-series data",
+                "description": "Subject category: Industry sectors, and Group: Building consents - BLD"
+            }
+        ]
+    },
+    {
+        "title": "Business Activity (GST) Indicator Series",
+        "description": "These releases provide information on business activity in New Zealand, by industry. The Business Activity Indicator is derived from goods and services tax (GST) data. These releases were suspended in 2002.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "gst",
+            "business",
+            "business activity",
+            "tax"
+        ],
+        "issued": "1998-01-1",
+        "modified": "2002-02-22",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/businesses/business_growth_and_innovation/business-activity-indicator-info-releases.aspx",
+        "accrualPeriodicity": "R/P3M",
+        "theme": "Fiscal, tax and economics",
+        "temporal": "1992/2001",
+        "distribution": [
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/BusinessActivityIndicatorGST/HOTPSept01qtr/b-a-gst-i-sep-01-qtr-all-tables.xls",
+                "title": "September 2001 quarter data",
+                "format": "XLS",
+                "size": "650KB"
+            },
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/BusinessActivityIndicatorGST/HOTPJun01qtr/bagstijun01qtralltables.xls",
+                "title": "June 2001 quarter data",
+                "format": "XLS",
+                "size": "651KB"
+            },
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/BusinessActivityIndicatorGST/HOTPMarch01qtr/bagstimar01qtralltables.xls",
+                "title": "March 2001 quarter data",
+                "format": "XLS",
+                "size": "652KB"
+            }
+        ]
+    },
+    {
+        "title": "Business Operations Survey",
+        "description": "The Business Operations Survey is to collect performance measures from New Zealand businesses to better understand the practices and behaviours they undertake which may have an impact on their performance. These statistics feed into policy and micro data research that helps identify the current situation of the New Zealand business environment, as well as potential areas of improvement. The survey covers all businesses in New Zealand that have 6 more employees, and have been active for one year or more.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "business",
+            "economy",
+            "industries",
+            "information",
+            "and communication technology"
+        ],
+        "modified": "2018-03-20",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Business%20operations%20survey%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Business, Economy, Industries, Information and communication technology, Research and development",
+        "temporal": "2005/2017",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/98568739-f933-4c00-8d56-d523f20e68bb",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data",
+                "description": "Select Subject category: Business and Group: Business operations survey - BUO"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2017/Download-data/business-operations-survey-2017-health-and-safety-csv-tables.csv",
+                "title": "Health and Safety data 2017",
+                "format": "CSV",
+                "size": "1.1MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2017/Download-data/business-operations-survey-2017-business-practices-csv-tables.csv",
+                "title": "Business practices 2017",
+                "format": "CSV",
+                "size": "2.3MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2016/Download-data/business-operations-survey-2016-skills-acquisition-csv-tables.zip",
+                "title": "Skills acquisition data, 2016",
+                "format": "ZIP",
+                "size": "75KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2016/Download-data/business-operations-survey-2016-regulation-csv-tables.zip",
+                "title": "Regulation 2016",
+                "format": "ZIP",
+                "size": "689KB"
+            }
+        ]
+    },
+    {
+        "title": "Business Price Indexes",
+        "description": "This combines the producers price index (PPI) and capital goods price index (CGPI) information releases into one quarterly business price index information release.   The PPI provides information on the change in the general level of prices for the productive sector of New Zealand. The CGPI provides information on changes in the general price level of fixed capital assets.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "agriculture",
+            "business",
+            "economy",
+            "industries",
+            "price indexes"
+        ],
+        "issued": "2017-05-17",
+        "modified": "2018-11-19",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Business%20price%20indexes%2CInformation%20releases",
+        "accrualPeriodicity": "R/P3M",
+        "theme": "Commerce, trade and industry",
+        "temporal": "1994/2018",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/3cad91a6-e3a2-4dca-bb77-52e11442a0bf",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/",
+                "title": "Infoshare data tool",
+                "description": "Select Subject category: Economic indicators, and Group: Producers price index - PPI or Group: Capital goods price index - CEP.  Select Subject category: Industry sectors and Group: Farm inputs - FPI"
+            }
+        ]
+    },
+    {
+        "distribution": [
+            null,
+            {
+                "size": "sssssssssssss"
+            }
+        ]
+    }
+]}

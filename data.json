@@ -332,10 +332,6 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
-                "title": "Infoshare: to view & download time-series data"
-            },
-            {
                 "downloadURL": "http://www.stats.govt.nz/infoshare/",
                 "title": "Use Infoshare for time-series data",
                 "description": "Subject category: Industry sectors, and Group: Building consents - BLD"

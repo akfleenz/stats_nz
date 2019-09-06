@@ -33,7 +33,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "Select Subject category: Health, and Group: Abortion Statistics - ABN"
             },
@@ -74,7 +74,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "Select Subject category: Tourism, and Group: Accommodation Survey - ACS"
             },
@@ -139,7 +139,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data"
             },
             {
@@ -178,7 +178,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data"
             }
         ]
@@ -216,7 +216,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data"
             },
             {
@@ -298,7 +298,7 @@
         ]
     },
     {
-        "title": "Balance of Payments and International Investment Position\n",
+        "title": "Balance of Payments and International Investment Position\r\n",
         "description": "These statistics provide records of the value of the country's transactions with the rest of the world in goods, services, income, and transfers. They also record changes in New Zealand's financial claims on (assets), and liabilities to, the rest of the world",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
@@ -327,7 +327,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "Select Subject category: Economic indicators,  and Group: Balance of payments - BOP, or Group: International investment position - IIP"
             },
@@ -370,7 +370,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "September 2018 data.  Select Subject category: Population, and Group: Births - VSB, or Group: Birth rates - DFM"
             },
@@ -415,7 +415,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data"
             },
             {
@@ -514,7 +514,7 @@
                 "size": "2.5 MB"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
                 "title": "Infoshare: to view & download time-series data",
                 "format": "Select Subject category: Businesses, and Business operations survey - BUO"
             }
@@ -665,34 +665,6 @@
         ]
     },
     {
-        "title": "Student Loan Borrowers 1997-2004",
-        "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
-        "license": "https://creativecommons.org/licenses/by/4.0",
-        "keyword": [
-            "student loan",
-            "education"
-        ],
-        "issued": "2006-04-11",
-        "publisher": {
-            "name": "Stats NZ",
-            "mbox": "info@stats.govt.nz"
-        },
-        "contactPoint": {
-            "fn": "InfoCentre",
-            "hasEmail": "info@stats.govt.nz"
-        },
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases/previous-releases.aspx",
-        "temporal": "1997/2004",
-        "distribution": [
-            {
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/slb97-04alltables.xls",
-                "title": "Data 1997-2004",
-                "format": "XLS",
-                "size": "309 KB"
-            }
-        ]
-    },
-    {
         "title": "Student Loan and Allowances",
         "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments). This is an annual release.",
         "license": "https://creativecommons.org/licenses/by/4.0",
@@ -723,10 +695,30 @@
         ]
     },
     {
+        "title": "Student Loan Borrowers 1997-2004",
+        "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "student loan",
+            "education"
+        ],
+        "issued": "2006-04-11",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases/previous-releases.aspx",
+        "temporal": "1997/2004",
         "distribution": [
-            null,
             {
-                "size": "sssssssssssss"
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/slb97-04alltables.xls",
+                "title": "Data 1997-2004",
+                "format": "XLS",
+                "size": "309 KB"
             }
         ]
     }

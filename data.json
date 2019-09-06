@@ -21,7 +21,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Abortion%20statistics%2CInformation%20releases",
         "accrualPeriodicity": "R/P1Y",
@@ -61,7 +62,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Accommodation%20survey%2CInformation%20releases",
         "accrualPeriodicity": "R/P1M",
@@ -125,7 +127,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Agricultural%20production%20statistics%2CInformation%20releases",
         "accrualPeriodicity": "R/P1Y",
@@ -163,7 +166,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Alcohol%20available%20for%20consumption%2CInformation%20releases",
         "accrualPeriodicity": "irregular",
@@ -176,6 +180,77 @@
             {
                 "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data"
+            }
+        ]
+    },
+    {
+        "title": "Annual Balance Sheets",
+        "description": "These provide estimates of assets, liabilities and net worth held by New Zealand institutional sectors (e.g. businesses, households and government) at a single point in time",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "business",
+            "economy",
+            "government finance",
+            "gross domestic product",
+            "households",
+            "industries",
+            "national accounts"
+        ],
+        "issued": "2017-03-31",
+        "modified": "2018-12-10",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Annual%20balance%20sheets%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "National Accounts",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/f025885e-09f5-4fd9-ada2-d2b64c633e9f",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2017-financial-year-provisional/Download-data/annual-enterprise-survey-2017-financial-year-provisional-csv.csv",
+                "title": "Annual enterprise survey: 2017 financial year (provisional) – CSV",
+                "format": "CSV",
+                "size": "3.5MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2017-financial-year-provisional/Download-data/annual-enterprise-survey-2017-financial-year-provisional-size-bands-csv.csv",
+                "title": "Annual enterprise survey: 2017 financial year (provisional) – size bands CSV",
+                "format": "CSV",
+                "size": "927KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2016/Download-data/business-operations-survey-2016-regulation-csv-tables.zip",
+                "title": "Business operations survey: 2016 – regulation – CSV",
+                "format": "CSV",
+                "size": "68KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2016/Download-data/business-operations-survey-2016-skills-acquisition-csv-tables.zip",
+                "title": "Business operations survey: 2017 – business practices – CSV",
+                "format": "CSV",
+                "size": "2.3MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2017/Download-data/business-operations-survey-2017-health-and-safety-csv-tables.csv"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Electronic-card-transactions/Electronic-card-transactions-January-2019/Download-data/electronic-card-transactions-january-2019.csv.zip"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/New-Zealand-business-demography-statistics/New-Zealand-business-demography-statistics-At-February-2018/Download-data/geographic-units-by-industry-and-statistical-area-2000-18.zip"
             }
         ]
     },
@@ -196,7 +271,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Annual%20enterprise%20survey%2CInformation%20releases",
         "accrualPeriodicity": "R/P1Y",
@@ -208,14 +284,18 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2017-financial-year-provisional/Download-data/annual-enterprise-survey-2017-financial-year-provisional-size-bands-csv.csv",
-                "title": "2017 financial year (provisional) - size bands",
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2018-financial-year-provisional/Download-data/annual-enterprise-survey-2018-financial-year-provisional-csv.csv",
+                "title": "2018 financial year (provisional)",
                 "format": "CSV",
-                "size": "927KB"
+                "size": "4.2 MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2018-financial-year-provisional/Download-data/annual-enterprise-survey-2018-financial-year-provisional-size-bands-csv.csv",
+                "title": "2018 financial year (provisional) - size bands",
+                "format": "CSV",
+                "size": "1 MB"
             }
-        ],
-        "field60": "Susan Hollows",
-        "field61": "National Accounts"
+        ]
     },
     {
         "title": "Balance of Payments and International Investment Position\n",
@@ -234,7 +314,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Balance%20of%20payments%20and%20international%20investment%20position%2CInformation%20releases",
         "accrualPeriodicity": "R/P3M",
@@ -276,7 +357,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Births%20and%20deaths%2CInformation%20releases",
         "accrualPeriodicity": "R/P3M",
@@ -321,7 +403,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Building%20consents%20issued%2CInformation%20releases",
         "accrualPeriodicity": "R/P1M",
@@ -330,6 +413,10 @@
             {
                 "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/ee083b32-8c10-4ccf-b1ee-a4990b27273c",
                 "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
+                "title": "Infoshare: to view & download time-series data"
             },
             {
                 "downloadURL": "http://www.stats.govt.nz/infoshare/",
@@ -356,7 +443,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "http://archive.stats.govt.nz/browse_for_stats/businesses/business_growth_and_innovation/business-activity-indicator-info-releases.aspx",
         "accrualPeriodicity": "R/P3M",
@@ -401,7 +489,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Business%20operations%20survey%2CInformation%20releases",
         "accrualPeriodicity": "R/P1Y",
@@ -413,33 +502,21 @@
                 "title": "Metadata on dataset"
             },
             {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2018/Download-data/business-operations-survey-2018-business-finance-csv.csv",
+                "title": "Business finance 2018",
+                "format": "CSV",
+                "size": "1 MB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2018/Download-data/business-operations-survey-2018-changing-nature-of-work-csv.csv",
+                "title": "Changing nature of work 2018",
+                "format": "CSV",
+                "size": "2.5 MB"
+            },
+            {
                 "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data",
-                "description": "Select Subject category: Business and Group: Business operations survey - BUO"
-            },
-            {
-                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2017/Download-data/business-operations-survey-2017-health-and-safety-csv-tables.csv",
-                "title": "Health and Safety data 2017",
-                "format": "CSV",
-                "size": "1.1MB"
-            },
-            {
-                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2017/Download-data/business-operations-survey-2017-business-practices-csv-tables.csv",
-                "title": "Business practices 2017",
-                "format": "CSV",
-                "size": "2.3MB"
-            },
-            {
-                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2016/Download-data/business-operations-survey-2016-skills-acquisition-csv-tables.zip",
-                "title": "Skills acquisition data, 2016",
-                "format": "ZIP",
-                "size": "75KB"
-            },
-            {
-                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-operations-survey/Business-operations-survey-2016/Download-data/business-operations-survey-2016-regulation-csv-tables.zip",
-                "title": "Regulation 2016",
-                "format": "ZIP",
-                "size": "689KB"
+                "format": "Select Subject category: Businesses, and Business operations survey - BUO"
             }
         ]
     },
@@ -462,7 +539,8 @@
         },
         "contactPoint": {
             "fn": "InfoCentre",
-            "hasPhone": "0508 525 525"
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
         },
         "landingPage": "https://www.stats.govt.nz/publications?filters=Business%20price%20indexes%2CInformation%20releases",
         "accrualPeriodicity": "R/P3M",
@@ -474,9 +552,173 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/",
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Business-price-indexes/Business-price-indexes-June-2019-quarter/Download-data/business-price-indexes-june-2019-quarter-csv.csv",
+                "title": "June 2019 quarter",
+                "format": "CSV",
+                "size": "11 MB"
+            }
+        ]
+    },
+    {
+        "title": "Electronic Card Transactions",
+        "description": "These releases provide information on the number and value of electronic card transactions with New Zealand-based merchants. Data includes transactions using debit (eftpos) cards, credit, and charge cards. Transactions by overseas cardholders in New Zealand are included; transactions by New Zealand cardholders overseas are excluded.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "charge cards",
+            "credit",
+            "debit",
+            "eftpos cards"
+        ],
+        "modified": "2018-12-11",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=Electronic%20card%20transactions%2CInformation%20releases",
+        "accrualPeriodicity": "R/P1M",
+        "theme": "Business, Economy, Industries, Retail and wholesale trade",
+        "temporal": "2002/2019",
+        "distribution": [
+            {
+                "downloadURL": "http://datainfoplus.stats.govt.nz/Item/nz.govt.stats/ba3649c2-07d8-4c34-a10f-659eb22d6d3e",
+                "title": "Metadata on dataset"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Electronic-card-transactions/Electronic-card-transactions-July-2019/Download-data/electronic-card-transactions-july-2019-csv.zip",
+                "title": "Jul-19",
+                "format": "CSV",
+                "size": "111 KB"
+            },
+            {
+                "downloadURL": "https://www.stats.govt.nz/infoshare/",
                 "title": "Infoshare data tool",
-                "description": "Select Subject category: Economic indicators, and Group: Producers price index - PPI or Group: Capital goods price index - CEP.  Select Subject category: Industry sectors and Group: Farm inputs - FPI"
+                "description": "Select Subject category: Economic indicators and Group: Electronic card transactions (ANZSIC06) - ECT"
+            }
+        ]
+    },
+    {
+        "title": "Geographic units by industry and statistical area",
+        "description": "Business demography statistics provide an annual snapshot of the characteristics of New Zealand businesses. The statistics cover economically significant enterprises that produce goods and services in New Zealand.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "business",
+            "economy",
+            "employment and unemployment",
+            "industries"
+        ],
+        "modified": "2018-10-26",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasPhone": "0508 525 525",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "https://www.stats.govt.nz/publications?filters=New%20Zealand%20business%20demography%20statistics,Information%20releases",
+        "accrualPeriodicity": "R/P1Y",
+        "theme": "Business, Economy, Industries, Retail and wholesale trade",
+        "distribution": [
+            {
+                "downloadURL": "https://www.stats.govt.nz/assets/Uploads/New-Zealand-business-demography-statistics/New-Zealand-business-demography-statistics-At-February-2018/Download-data/geographic-units-by-industry-and-statistical-area-2000-18.zip",
+                "title": "2000-18 dataset",
+                "format": "ZIP",
+                "size": "19 MB"
+            }
+        ]
+    },
+    {
+        "title": "IR Tax data - IDI data dictionary",
+        "description": "IDI Data Dictionary: IR tax data (September 2015 edition) documents the content of the datasets that Inland Revenue provides to Stats NZ for use in the Integrated Data Infrastructure (IDI). This document pulls together a number of documents that exist in relation to the IR tax data to create a 'formalised' central reference point for users.  These datasets give information on the variables contained in the datasets from April 1999 – including technical information and descriptions.",
+        "keyword": [
+            "income and work",
+            "integrated data infrastructure",
+            "curf",
+            "core unit record file"
+        ],
+        "issued": "2015-09-30",
+        "publisher": {
+            "name": "Stats NZ"
+        },
+        "contactPoint": {
+            "fn": "Integrated Data team",
+            "hasPhone": "04 931 4253",
+            "hasEmail": "access2microdata@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/snapshots-of-nz/integrated-data-infrastructure/idi-data/irtax-data.aspx",
+        "accrualPeriodicity": "irregular",
+        "theme": "Research, integrated data infrastructure",
+        "distribution": [
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/browse-categories/snapshots-of-nz/integrated-data-infrastructure/IDI%20data%20dictionaries/idi-dd-irtax-sep-15.pdf",
+                "title": "Data dictionary",
+                "description": "IR tax data (Sept 2015 edition)",
+                "format": "PDF",
+                "size": "983 KB"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan Borrowers 1997-2004",
+        "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "student loan",
+            "education"
+        ],
+        "issued": "2006-04-11",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases/previous-releases.aspx",
+        "temporal": "1997/2004",
+        "distribution": [
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/slb97-04alltables.xls",
+                "title": "Data 1997-2004",
+                "format": "XLS",
+                "size": "309 KB"
+            }
+        ]
+    },
+    {
+        "title": "Student Loan and Allowances",
+        "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments). This is an annual release.",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "student loan",
+            "education",
+            "debt"
+        ],
+        "modified": "2015-01-22",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases.aspx",
+        "accrualPeriodicity": "R/P1Y",
+        "temporal": "2002/2013",
+        "distribution": [
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/HOTP13/sla-2013-tables.xls",
+                "title": "2013 data",
+                "format": "XLS",
+                "size": "192 KB"
             }
         ]
     },

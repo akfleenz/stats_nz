@@ -1,0 +1,48 @@
+{
+    "@context": "https://www.data.govt.nz/catalog.jsonld",
+    "@id": "stats.data.govt.nz/data.json",
+    "@type": "dcat:Catalog",
+    "@conformsTo": "https://www.data.govt.nz/toolkit/schema",
+    "dataset": [
+        {
+		      "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+            "issued": "2019-09-24T20:11:34Z",
+            "modified": "2019-09-24T20:11:35Z",
+            "distribution": [
+                {
+                    "title": "2018 Census Place Summaries Content",
+                    "description": "All Topics for 2018 Census Place Summaries Content ",
+                    "accessURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+                    "format": "api"
+                }
+            ],
+            "title": "2018 Census Place Summaries Content",
+            "description": "All Topics for 2018 Census Place Summaries Content ",
+            "license": "https://creativecommons.org/licenses/by/4.0/",
+            "keyword": [
+                "travel",
+                "2018 Census"
+            ],
+            "publisher": {
+                "name": "Stats NZ",
+                "email": "info@stats.govt.nz"
+            },
+            "contactPoint": {
+                "fn": "Information Centre",
+                "hasEmail": "info@stats.govt.nz",
+                "hasPhone": "(0800) 800 800"
+            },
+            "landingPage": "https://www.stats.govt.nz",
+            "references": [
+                "http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place/"
+            ],
+            "language": [
+                "en"
+            ],
+            "accrualPeriodicity": "irregular",
+            "theme": "Census",
+            "temporal": "2006-",
+            "spatial": "{}"
+        }
+    ]
+}

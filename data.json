@@ -14,7 +14,7 @@
             "society",
             "women"
         ],
-        "modified": "2018-06-19",
+        "modified": "43270",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -33,7 +33,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "Select Subject category: Health, and Group: Abortion Statistics - ABN"
             },
@@ -55,7 +55,7 @@
             "industries",
             "tourism"
         ],
-        "modified": "2018-02-15",
+        "modified": "43146",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -74,7 +74,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "Select Subject category: Tourism, and Group: Accommodation Survey - ACS"
             },
@@ -119,8 +119,8 @@
             "land",
             "mnaufacturing and production"
         ],
-        "issued": "1905-06-12",
-        "modified": "2019-01-17",
+        "issued": "1990",
+        "modified": "43482",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -139,7 +139,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data"
             },
             {
@@ -159,7 +159,7 @@
             "imports and export",
             "industries"
         ],
-        "modified": "2018-11-26",
+        "modified": "43430",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -178,7 +178,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data"
             }
         ]
@@ -196,10 +196,10 @@
             "industries",
             "national accounts"
         ],
-        "issued": "2017-03-31",
-        "modified": "2018-12-10",
+        "issued": "42825",
+        "modified": "43444",
         "publisher": {
-            "name": "Stats NZ",
+            "name": "Statistics NZ",
             "mbox": "info@stats.govt.nz"
         },
         "contactPoint": {
@@ -216,7 +216,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data"
             },
             {
@@ -263,8 +263,8 @@
             "economy",
             "industries"
         ],
-        "issued": "1905-06-8",
-        "modified": "2018-06-29",
+        "issued": "1986",
+        "modified": "43280",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -298,7 +298,7 @@
         ]
     },
     {
-        "title": "Balance of Payments and International Investment Position\r\n",
+        "title": "Balance of Payments and International Investment Position\n",
         "description": "These statistics provide records of the value of the country's transactions with the rest of the world in goods, services, income, and transfers. They also record changes in New Zealand's financial claims on (assets), and liabilities to, the rest of the world",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
@@ -306,8 +306,8 @@
             "economy",
             "imports and exports"
         ],
-        "issued": "2000-06-1",
-        "modified": "2018-09-26",
+        "issued": "36678",
+        "modified": "43369",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -327,7 +327,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "Select Subject category: Economic indicators,  and Group: Balance of payments - BOP, or Group: International investment position - IIP"
             },
@@ -349,8 +349,8 @@
             "population",
             "women"
         ],
-        "issued": "1905-01-21",
-        "modified": "2018-11-1",
+        "issued": "1848",
+        "modified": "43405",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -370,7 +370,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data",
                 "description": "September 2018 data.  Select Subject category: Population, and Group: Births - VSB, or Group: Birth rates - DFM"
             },
@@ -415,7 +415,7 @@
                 "title": "Metadata on dataset"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data"
             },
             {
@@ -435,8 +435,8 @@
             "business activity",
             "tax"
         ],
-        "issued": "1998-01-1",
-        "modified": "2002-02-22",
+        "issued": "35796",
+        "modified": "37309",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -482,7 +482,7 @@
             "information",
             "and communication technology"
         ],
-        "modified": "2018-03-20",
+        "modified": "43179",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -514,7 +514,7 @@
                 "size": "2.5 MB"
             },
             {
-                "downloadURL": "http://www.stats.govt.nz/infoshare/\r\n",
+                "downloadURL": "http://www.stats.govt.nz/infoshare/\n",
                 "title": "Infoshare: to view & download time-series data",
                 "format": "Select Subject category: Businesses, and Business operations survey - BUO"
             }
@@ -531,8 +531,8 @@
             "industries",
             "price indexes"
         ],
-        "issued": "2017-05-17",
-        "modified": "2018-11-19",
+        "issued": "42872",
+        "modified": "43423",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -569,9 +569,9 @@
             "debit",
             "eftpos cards"
         ],
-        "modified": "2018-12-11",
+        "modified": "43445",
         "publisher": {
-            "name": "Stats NZ",
+            "name": "Statistics NZ",
             "mbox": "info@stats.govt.nz"
         },
         "contactPoint": {
@@ -590,7 +590,7 @@
             },
             {
                 "downloadURL": "https://www.stats.govt.nz/assets/Uploads/Electronic-card-transactions/Electronic-card-transactions-July-2019/Download-data/electronic-card-transactions-july-2019-csv.zip",
-                "title": "Jul-19",
+                "title": "43647",
                 "format": "CSV",
                 "size": "111 KB"
             },
@@ -611,9 +611,9 @@
             "employment and unemployment",
             "industries"
         ],
-        "modified": "2018-10-26",
+        "modified": "43399",
         "publisher": {
-            "name": "Stats NZ",
+            "name": "Statistics NZ",
             "mbox": "info@stats.govt.nz"
         },
         "contactPoint": {
@@ -635,16 +635,16 @@
     },
     {
         "title": "IR Tax data - IDI data dictionary",
-        "description": "IDI Data Dictionary: IR tax data (September 2015 edition) documents the content of the datasets that Inland Revenue provides to Stats NZ for use in the Integrated Data Infrastructure (IDI). This document pulls together a number of documents that exist in relation to the IR tax data to create a 'formalised' central reference point for users.  These datasets give information on the variables contained in the datasets from April 1999 – including technical information and descriptions.",
+        "description": "IDI Data Dictionary: IR tax data (September 2015 edition) documents the content of the datasets that Inland Revenue provides to Statistics NZ for use in the Integrated Data Infrastructure (IDI). This document pulls together a number of documents that exist in relation to the IR tax data to create a 'formalised' central reference point for users.  These datasets give information on the variables contained in the datasets from April 1999 – including technical information and descriptions.",
         "keyword": [
             "income and work",
             "integrated data infrastructure",
             "curf",
             "core unit record file"
         ],
-        "issued": "2015-09-30",
+        "issued": "42277",
         "publisher": {
-            "name": "Stats NZ"
+            "name": "Statistics NZ"
         },
         "contactPoint": {
             "fn": "Integrated Data team",
@@ -665,6 +665,34 @@
         ]
     },
     {
+        "title": "Student Loan Borrowers 1997-2004",
+        "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "keyword": [
+            "student loan",
+            "education"
+        ],
+        "issued": "38818",
+        "publisher": {
+            "name": "Stats NZ",
+            "mbox": "info@stats.govt.nz"
+        },
+        "contactPoint": {
+            "fn": "InfoCentre",
+            "hasEmail": "info@stats.govt.nz"
+        },
+        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases/previous-releases.aspx",
+        "temporal": "1997/2004",
+        "distribution": [
+            {
+                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/slb97-04alltables.xls",
+                "title": "Data 1997-2004",
+                "format": "XLS",
+                "size": "309 KB"
+            }
+        ]
+    },
+    {
         "title": "Student Loan and Allowances",
         "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments). This is an annual release.",
         "license": "https://creativecommons.org/licenses/by/4.0",
@@ -673,7 +701,7 @@
             "education",
             "debt"
         ],
-        "modified": "2015-01-22",
+        "modified": "42026",
         "publisher": {
             "name": "Stats NZ",
             "mbox": "info@stats.govt.nz"
@@ -695,30 +723,32 @@
         ]
     },
     {
-        "title": "Student Loan Borrowers 1997-2004",
-        "description": "Information on the different characteristics of student loan borrowers, in terms of personal variables (such as sex and age), and characteristics of their loans (amount borrowed, total debt, and voluntary repayments).",
+        "title": "2018 Census Place Summaries Content",
+        "description": "Topics for the 2018 Census Place Summaries",
+        "identifier": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
         "license": "https://creativecommons.org/licenses/by/4.0",
         "keyword": [
-            "student loan",
-            "education"
+            "census",
+            "2018 census",
+            "place summary"
         ],
-        "issued": "2006-04-11",
+        "issued": "43732",
         "publisher": {
-            "name": "Stats NZ",
-            "mbox": "info@stats.govt.nz"
+            "name": "Stats NZ"
         },
         "contactPoint": {
             "fn": "InfoCentre",
+            "hasPhone": "0508 525 525",
             "hasEmail": "info@stats.govt.nz"
         },
-        "landingPage": "http://archive.stats.govt.nz/browse_for_stats/education_and_training/Tertiary%20education/student-loans-and-allowances-info-releases/previous-releases.aspx",
-        "temporal": "1997/2004",
+        "landingPage": "http://archive.stats.govt.nz/Census/2013-census/profile-and-summary-reports/quickstats-about-a-place/",
+        "theme": "Census",
+        "temporal": "2006/2018",
         "distribution": [
             {
-                "downloadURL": "http://archive.stats.govt.nz/~/media/Statistics/Browse%20for%20stats/StudentLoansandAllowances/previous-releases/slb97-04alltables.xls",
-                "title": "Data 1997-2004",
-                "format": "XLS",
-                "size": "309 KB"
+                "downloadURL": "https://opendata-api-nonprod.azure-api.net/uat/v2/Census2018PlaceSummaries",
+                "title": "2018 Census Place Summaries",
+                "format": "API"
             }
         ]
     }
